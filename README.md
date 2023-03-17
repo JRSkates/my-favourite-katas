@@ -1,0 +1,1 @@
+A collection of some of my favourite Katas I have successfully completed on Codewars
