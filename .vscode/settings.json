@@ -1,0 +1,19 @@
+{
+  "breadcrumbs.enabled": false,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.executorMap": {
+    "ruby": "ruby"
+  },
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "code-runner.showExecutionMessage": false,
+  "editor.formatOnSave": false,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "files.autoSave": "onFocusChange",
+  "ruby.useBundler": true,
+  "ruby.useLanguageServer": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.panel.defaultLocation": "right"
+}
